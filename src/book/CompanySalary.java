@@ -36,7 +36,7 @@ class Company{
         return salaries;
     }
 }
-   public class CompanySalary {
+public class CompanySalary {
     public static void main(String args[]) {
         Employee[] employee = new Employee[29];
         for (int i = 0; i < employee.length; i++) {
